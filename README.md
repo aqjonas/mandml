@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DAGs with NO TEARS :no_entry_sign::droplet:
 
 **[Update 12/8/22]** Interested in faster and more accurate structure learning? See our new [DAGMA](https://github.com/kevinsbello/dagma) library from [NeurIPS 2022](https://arxiv.org/abs/2209.08037).
@@ -162,3 +163,9 @@ The output graph will be stored in `W_est.csv`.
 
 - Python: https://github.com/jmoss20/notears
 - Tensorflow with Python: https://github.com/ignavier/notears-tensorflow
+=======
+# Setup
+To run the Notears Algorithm on a given CSV file navigate to DAGsWithNoTEARS/notears/bin and execute the file:
+
+`py notears_linear "yourFile.csv"`
+>>>>>>> dbcdb7cb22f4ad445f8cbfa248f6a8d00554ce95

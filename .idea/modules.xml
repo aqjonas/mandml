@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/notears.iml" filepath="$PROJECT_DIR$/.idea/notears.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/MPI_MIS_Praktikum.iml" filepath="$PROJECT_DIR$/.idea/MPI_MIS_Praktikum.iml" />
+>>>>>>> dbcdb7cb22f4ad445f8cbfa248f6a8d00554ce95
     </modules>
   </component>
 </project>
